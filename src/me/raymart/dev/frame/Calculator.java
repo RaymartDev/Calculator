@@ -2,6 +2,7 @@ package me.raymart.dev.frame;
 
 import javax.swing.*;
 import java.text.DecimalFormat;
+import java.util.concurrent.CompletableFuture;
 
 public class Calculator {
     private JPanel Calculator;
@@ -182,6 +183,7 @@ public class Calculator {
             firstNumber = 0;
             lastOperator = -1;
         });
+
     }
 
     public static void main(String[] args) {

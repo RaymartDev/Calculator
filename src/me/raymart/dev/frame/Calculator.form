@@ -172,6 +172,7 @@
           </grid>
         </constraints>
         <properties>
+          <editable value="false"/>
           <font name="Tahoma" size="12" style="1"/>
           <text value=""/>
         </properties>
