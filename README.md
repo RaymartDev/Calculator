@@ -4,7 +4,8 @@ A simple calculator GUI
 
 ## Description
 
-Lets you use a standard calculator in a GUI, these are some features that this calculator supports
+Lets you use a standard calculator in a GUI, these are some features that this calculator supports.
+Made by IntelliJ java GUI Form.
 
 ## Features
 
