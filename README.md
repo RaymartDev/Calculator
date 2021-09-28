@@ -14,6 +14,7 @@ Made by IntelliJ java GUI Form.
 * By clicking . without any text it will produce 0. instead.
 * Error proof.
 * Simple and easy to use. (Resizable)
+* Decimal format.
 
 ## Screenshot
 
