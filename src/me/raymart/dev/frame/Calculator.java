@@ -2,7 +2,6 @@ package me.raymart.dev.frame;
 
 import javax.swing.*;
 import java.text.DecimalFormat;
-import java.util.concurrent.CompletableFuture;
 
 public class Calculator {
     private JPanel Calculator;
@@ -28,33 +27,15 @@ public class Calculator {
     private int lastOperator = -1;
 
     public Calculator() {
-        buttonOne.addActionListener(e -> {
-            textDisplay.setText(textDisplay.getText() + buttonOne.getText());
-        });
-        buttonTwo.addActionListener(e -> {
-            textDisplay.setText(textDisplay.getText() + buttonTwo.getText());
-        });
-        buttonThree.addActionListener(e -> {
-            textDisplay.setText(textDisplay.getText() + buttonThree.getText());
-        });
-        buttonFour.addActionListener(e -> {
-            textDisplay.setText(textDisplay.getText() + buttonFour.getText());
-        });
-        buttonFive.addActionListener(e -> {
-            textDisplay.setText(textDisplay.getText() + buttonFive.getText());
-        });
-        buttonSix.addActionListener(e -> {
-            textDisplay.setText(textDisplay.getText() + buttonSix.getText());
-        });
-        buttonSeven.addActionListener(e -> {
-            textDisplay.setText(textDisplay.getText() + buttonSeven.getText());
-        });
-        buttonEight.addActionListener(e -> {
-            textDisplay.setText(textDisplay.getText() + buttonEight.getText());
-        });
-        buttonNine.addActionListener(e -> {
-            textDisplay.setText(textDisplay.getText() + buttonNine.getText());
-        });
+        buttonOne.addActionListener(e -> textDisplay.setText(textDisplay.getText() + buttonOne.getText()));
+        buttonTwo.addActionListener(e -> textDisplay.setText(textDisplay.getText() + buttonTwo.getText()));
+        buttonThree.addActionListener(e -> textDisplay.setText(textDisplay.getText() + buttonThree.getText()));
+        buttonFour.addActionListener(e -> textDisplay.setText(textDisplay.getText() + buttonFour.getText()));
+        buttonFive.addActionListener(e -> textDisplay.setText(textDisplay.getText() + buttonFive.getText()));
+        buttonSix.addActionListener(e -> textDisplay.setText(textDisplay.getText() + buttonSix.getText()));
+        buttonSeven.addActionListener(e -> textDisplay.setText(textDisplay.getText() + buttonSeven.getText()));
+        buttonEight.addActionListener(e -> textDisplay.setText(textDisplay.getText() + buttonEight.getText()));
+        buttonNine.addActionListener(e -> textDisplay.setText(textDisplay.getText() + buttonNine.getText()));
         buttonZero.addActionListener(e -> {
             if(textDisplay.getText().isEmpty()) {
                 return;

@@ -17,7 +17,8 @@
           <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <font name="Tahoma" size="12" style="1"/>
+          <font name="Tahoma" size="26" style="1"/>
+          <foreground color="-9802487"/>
           <text value="2"/>
         </properties>
       </component>
@@ -26,7 +27,8 @@
           <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <font name="Tahoma" size="12" style="1"/>
+          <font name="Tahoma" size="26" style="1"/>
+          <foreground color="-9802487"/>
           <text value="3"/>
         </properties>
       </component>
@@ -35,7 +37,8 @@
           <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <font name="Tahoma" size="12" style="1"/>
+          <font name="Tahoma" size="26" style="1"/>
+          <foreground color="-9802487"/>
           <text value="5"/>
         </properties>
       </component>
@@ -44,7 +47,8 @@
           <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <font name="Tahoma" size="12" style="1"/>
+          <font name="Tahoma" size="26" style="1"/>
+          <foreground color="-9802487"/>
           <text value="8"/>
         </properties>
       </component>
@@ -53,7 +57,8 @@
           <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <font name="Tahoma" size="12" style="1"/>
+          <font name="Tahoma" size="26" style="1"/>
+          <foreground color="-9802487"/>
           <text value="."/>
         </properties>
       </component>
@@ -62,7 +67,8 @@
           <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <font name="Tahoma" size="12" style="1"/>
+          <font name="Tahoma" size="26" style="1"/>
+          <foreground color="-9802487"/>
           <text value="+"/>
         </properties>
       </component>
@@ -71,7 +77,8 @@
           <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <font name="Tahoma" size="12" style="1"/>
+          <font name="Tahoma" size="26" style="1"/>
+          <foreground color="-9802487"/>
           <text value="6"/>
         </properties>
       </component>
@@ -80,7 +87,8 @@
           <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <font name="Tahoma" size="12" style="1"/>
+          <font name="Tahoma" size="26" style="1"/>
+          <foreground color="-9802487"/>
           <text value="9"/>
         </properties>
       </component>
@@ -89,7 +97,8 @@
           <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <font name="Tahoma" size="12" style="1"/>
+          <font name="Tahoma" size="26" style="1"/>
+          <foreground color="-9802487"/>
           <text value="Cl"/>
         </properties>
       </component>
@@ -98,7 +107,8 @@
           <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <font name="Tahoma" size="12" style="1"/>
+          <font name="Tahoma" size="26" style="1"/>
+          <foreground color="-9802487"/>
           <text value="-"/>
         </properties>
       </component>
@@ -107,7 +117,8 @@
           <grid row="2" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <font name="Tahoma" size="12" style="1"/>
+          <font name="Tahoma" size="26" style="1"/>
+          <foreground color="-9802487"/>
           <text value="x"/>
         </properties>
       </component>
@@ -116,7 +127,8 @@
           <grid row="3" column="3" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <font name="Tahoma" size="12" style="1"/>
+          <font name="Tahoma" size="26" style="1"/>
+          <foreground color="-9802487"/>
           <text value="="/>
         </properties>
       </component>
@@ -125,7 +137,8 @@
           <grid row="2" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <font name="Tahoma" size="12" style="1"/>
+          <font name="Tahoma" size="26" style="1"/>
+          <foreground color="-9802487"/>
           <text value="/"/>
         </properties>
       </component>
@@ -134,7 +147,8 @@
           <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <font name="Tahoma" size="12" style="1"/>
+          <font name="Tahoma" size="26" style="1"/>
+          <foreground color="-9802487"/>
           <text value="1"/>
         </properties>
       </component>
@@ -143,7 +157,8 @@
           <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <font name="Tahoma" size="12" style="1"/>
+          <font name="Tahoma" size="26" style="1"/>
+          <foreground color="-9802487"/>
           <text value="4"/>
         </properties>
       </component>
@@ -152,7 +167,8 @@
           <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <font name="Tahoma" size="12" style="1"/>
+          <font name="Tahoma" size="26" style="1"/>
+          <foreground color="-9802487"/>
           <text value="7"/>
         </properties>
       </component>
@@ -161,14 +177,15 @@
           <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <font name="Tahoma" size="12" style="1"/>
+          <font name="Tahoma" size="26" style="1"/>
+          <foreground color="-9802487"/>
           <text value="0"/>
         </properties>
       </component>
       <component id="a7fce" class="javax.swing.JTextField" binding="textDisplay">
         <constraints>
           <grid row="0" column="0" row-span="1" col-span="5" vsize-policy="0" hsize-policy="6" anchor="9" fill="1" indent="2" use-parent-layout="false">
-            <preferred-size width="150" height="-1"/>
+            <preferred-size width="150" height="20"/>
           </grid>
         </constraints>
         <properties>
