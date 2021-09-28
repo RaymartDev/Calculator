@@ -14,3 +14,7 @@ Made by IntelliJ java GUI Form.
 * By clicking . without any text it will produce 0. instead.
 * Error proof.
 * Simple and easy to use. (Resizable)
+
+## Screenshot
+
+![Image1](https://i.gyazo.com/37f677ccc16a08c1da439f78fbae2118.png)
