@@ -16,6 +16,5 @@ Made by IntelliJ java GUI Form.
 * Simple and easy to use. (Resizable)
 * Decimal format.
 
-## Screenshot
 
 ![Image1](https://i.gyazo.com/37f677ccc16a08c1da439f78fbae2118.png)
